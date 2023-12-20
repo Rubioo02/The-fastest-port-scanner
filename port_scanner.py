@@ -25,7 +25,7 @@ def port_scanner(port, ip):
     s = ssocket()
     try:
         s.connect((ip,port))
-        print(colored(f"\n [+] El puerto {port} esta abierto", 'green'))
+        print(colored(f"\n [+] The port {port} is open", 'green'))
         s.close()
     except (socket.timeout, ConnectionRefusedError):
         s.close()
