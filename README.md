@@ -17,4 +17,4 @@ python3 port_scanner.py -i IP -p PORTS
 
 # BLOG
 
-<https://rubioo02.github.io/>
+<https://rubioo02.github.io/posts/the-fastest-tcp-scanner/>
