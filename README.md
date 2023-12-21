@@ -3,6 +3,8 @@
 > [!WARNING]  
 > For educational purposes only.
 
+![gif](https://github.com/Rubioo02/The-fastest-port-scanner/blob/main/peeks_gif_unidos.gif?raw=true)
+
 # USAGE
 
 ### STEP 1
